@@ -1,0 +1,5 @@
+C:\Users\gkber\source\repos\MyTestProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\gkber\source\repos\MyTestProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkber\source\repos\MyTestProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\gkber\source\repos\MyTestProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\gkber\source\repos\MyTestProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
