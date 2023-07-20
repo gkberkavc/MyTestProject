@@ -7,12 +7,6 @@ namespace MyTestProject.Controllers
 {
     public class APIController : ControllerBase
     {
-        private readonly HttpClient _httpClient;
-        public APIController()
-        {
-            _httpClient = new HttpClient();
-        }
-
         public async Task<IActionResult> GetBarcode(string token, string productCode)
         {
             //Create a HttpClient instance.
